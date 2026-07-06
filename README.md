@@ -1,1 +1,1 @@
-# Supermarket-Self-Checkout-no-code-application
+# Supermarket-Self-Checkout
